@@ -1,0 +1,56 @@
+#container{
+    margin-top: 56px;
+    background: rgba(243, 243, 243, 1) 0% 0% no-repeat padding-box;
+    padding: 25px 17px;
+    
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+.select-group{
+    display: flex;
+ } 
+
+.label-option {
+    margin: 0 10px;
+}
+
+.select-btn{
+    margin-top: 5px;
+    background-color: white;
+    border: 1px solid #DDDDDD;
+    height: 30px;
+    width: 350px;
+}
+
+/* .cancel-apply-btn{
+    display: flex;
+    margin: 20px 0;
+} */
+
+.fun-btn{
+    margin: 23px 0;
+   
+}
+
+.ca-btn{
+    float: right;
+    width: 50px;
+    background-color: white;
+    border: 1px solid #DDDDDD;
+    color: #235BA8;
+    height: 30px;
+    font-size: 12px;
+    margin: 2px 5px; 
+}
+
+.ca-btn:hover{
+    background-color: #235BA8;
+    color: white;
+}
+
+.main-2{
+    display: flex;
+}
+
+

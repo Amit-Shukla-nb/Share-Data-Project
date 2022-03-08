@@ -1,0 +1,31 @@
+
+.linkicon{
+    float:right;
+    margin-top: 18px;
+    margin-right: 70px;
+    width: 24px;
+    fill:white;
+    height: 24px;
+}
+.linkicon:hover{
+    box-sizing: border-box;
+    border: 1px solid blue;
+
+}
+.drop-down{
+    position: relative;
+    border:1px solid whitesmoke;
+    background-color: white;
+    width:220px;
+    margin-top: 57px;
+    float:right;
+}
+.li{
+    opacity:0.7;
+    margin-top:10px;
+    list-style-type: none;
+    // font-family: 'Open Sans';
+    font-size: 14px;
+}
+
+    

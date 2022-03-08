@@ -1,0 +1,50 @@
+.resource{
+    width: 100%;
+    margin-top: 20px;
+    // padding: 10px 0;
+}
+
+.heading{
+    margin-left: 15px;
+    // font-weight: bold;
+    font-size: 20px;
+}
+
+.btn{
+    color: #235BA8;
+    background: white;
+    float: right;
+    height: 47px;
+    width: 170px;
+    padding-right: 8px;
+    margin-right: 25px;
+    border: none;
+    outline: none;
+    
+}
+
+.btn:hover {
+    background-color: #2BAEFF14;
+}
+
+.history-icon{
+    height: 10px;
+    width: 10px;
+    background-color: #235BA8;
+    color: white;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    border: 1px solid #235BA8;
+}
+
+.activity-history{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.paragraph{
+    margin-left: 15px;
+    font-size: 12px;
+    font-family: sans-serif;
+}

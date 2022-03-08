@@ -1,0 +1,45 @@
+.btn-group{
+    float: right;
+    font-size: 13px;
+}
+
+.import{
+    // border-radius: 4px;
+    background-color: white;
+    border: 1px solid #DDDDDD;
+    font-size: 15px;
+    
+    width: 100px;
+    height: 35px;
+    
+}
+.import:hover{
+    background-color: #235BA8;
+    color: white;
+}
+.down-icon{
+   
+    width: 30px;
+    height: 20px;
+}
+
+
+// .export{
+//     color: #235BA8;
+//     border-radius: 4px;
+//     margin: 5px;
+// }
+// .export:hover{
+//     background-color: #FFFFFF;
+//     color: #235BA8;
+// }
+
+.export{
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    margin-right: 5px;
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}

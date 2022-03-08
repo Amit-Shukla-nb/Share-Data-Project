@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "label": "Last Name",
+        "info": "Gray"
+    },
+    {
+        "id": 2,
+        "label": "Email Address",
+        "info": "ggrey@nextgen.com"
+    },
+    {
+        "id": 3,
+        "label": "Modile Phone",
+        "info": "(555) 555-5555"
+    },
+    {
+        "id": 4,
+        "label": "Genden",
+        "info": "Male"
+    },
+    {
+        "id": 5,
+        "label": "User Type",
+        "info": "Support User"
+    },
+    {
+        "id": 6,
+        "label": "Credentials",
+        "info": "NP"
+    },
+    {
+        "id": 7,
+        "label": "Personnel Type(s)",
+        "info": "Physician"
+    }
+]
